@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.studiopulsar.feintha.tfwarsnoveau.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tfwarsnoveau.refmap.json",
+  "mixins": [
+    "BushBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

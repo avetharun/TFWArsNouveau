@@ -1,0 +1,9 @@
+{
+    "feature": "arsnouveau_tfc:plant/wild_crop/sourceberry",
+    "placement": [
+      {
+        "type": "minecraft:heightmap",
+        "heightmap": "WORLD_SURFACE_WG"
+      }
+    ]
+  }
